@@ -1,6 +1,6 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Welcome-To-My-Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Welcome-To-My-Profile&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hello, This is AMIT NEGI</h1>
@@ -88,17 +88,15 @@ Feel free to reach out!
 A full-stack system for managing buses, routes, drivers, and schedules with admin CRUD functionality.
 
 **Tech:** PHP • MySQL • HTML • CSS  
-🔗 *Repo link here*
-
+<br>
 </td>
 <td width="50%">
 
-### 🤖 AI Learning Projects
-Hands-on implementations while learning AI fundamentals, algorithms, and applied concepts.
+### 🤖 Crime Rate Prediction
+A machine learning–based system that analyzes historical crime data to predict future trends and support data-driven insights.
 
-**Tech:** Python • ML Basics  
-🔗 *Repo link here*
-
+**Tech:** Python • Machine Learning • Pandas • NumPy • Scikit-learn
+<br>
 </td>
 </tr>
 
@@ -108,17 +106,15 @@ Hands-on implementations while learning AI fundamentals, algorithms, and applied
 ### 🌐 Portfolio Website
 Personal developer portfolio showcasing projects, skills, and experience.
 
-**Tech:** HTML • CSS • JavaScript  
+**Tech:** HTML • CSS • JavaScript <br>
 🔗 [Live Site](https://itsamitportfolio.netlify.app/)
-
 </td>
 <td width="50%">
 
-### 🎮 Unity Mini Games
-Small interactive projects focused on game logic, physics, and user interaction.
+### 🎮 Real-Time Chat Application (Java)
+A real-time, multi-client chat system focused on low-latency communication and reliable message delivery using a client–server architecture.
 
-**Tech:** Unity • C#  
-🔗 *Repo link here*
+**Tech:** Android Studio • Java • Firebase 
 
 </td>
 </tr>
@@ -126,15 +122,13 @@ Small interactive projects focused on game logic, physics, and user interaction.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
+## 🎯 Hobbies & Interests
+- 🛠️ Continuous learning and self-improvement  
+- 📚 Reading about **technology, systems thinking, and personal growth**
+- 🧠 Exploring new **places and technologies**
+- 🧩 Qestiioning about **logic behind**
+- 🚶 Enjoy long **walks and drives**  
+- 🎮 Casual gaming with an interest in **game logic and mechanics** 
 
 ---
 
