@@ -20,10 +20,13 @@
 
 ---
 
-- 🔭 Currently working on **Bus Management System**
-- 🌱 Currently learning **Artificial Intelligence**
-- 👨‍💻 Portfolio: [https://itsamitportfolio.netlify.app/](https://itsamitportfolio.netlify.app/)
-- 📫 Reach me at **amitarj8006@gmail.com**
+
+## Currently
+
+- 🔭 working on **Bus Management System**
+- 🌱 deep diving into **Artificial Intelligence**
+- 👨‍💻 Portfolio: [Portfolio](https://itsamitportfolio.netlify.app/)
+- 📫 Reach me at **+91 9058119029**
 - 📄 Resume: [View here](https://drive.google.com/file/d/1y7X9kRbhGxWmP6Wz97mxJf-cdSMdY08_/view)
 
 ---
@@ -36,17 +39,18 @@ Feel free to reach out!
 <p>
   <a href="https://www.linkedin.com/in/amit-n374" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> &nbsp
+  </a>
   <a href="mailto:amitarj8006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+    <a href="https://x.com/AmitNeg64156250" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools  
-<sub>Ordered from foundations → professional expertise</sub>
-
 <p align="center">
 
 <!-- Beginner -->
@@ -69,9 +73,6 @@ Feel free to reach out!
 <!-- Tools -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
 
 </p>
 
