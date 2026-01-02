@@ -1,5 +1,6 @@
 <h1 align="center">Hey👋,This is Amit</h1>
-<h3 align="center">An Aspiring Software Developer</h3>
+<h2 align="center">An Aspiring Software Developer</h2>
+<h3>Techiee by education, builder by practice. Writing code, refining systems, and questioning assumptions. Focused on long-term growth through learning, unlearning, and iteration—becoming, not arriving.</h3>
 <img align="right" width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/a48cff72-f9b3-464f-b2af-aec5d857bcff" />
 
 
